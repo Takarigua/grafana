@@ -73,7 +73,7 @@ node_filesystem_free_bytes{fstype!~"tmpfs|overlay"} / 1024 / 1024 / 1024
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 2. В качестве решения задания приведите листинг этого файла.
 #
-(https://github.com/Takarigua/grafana/blob/6bd017d5065d704336eae153bec8e9268c615301/JSON%20model)
+https://github.com/Takarigua/grafana/blob/6bd017d5065d704336eae153bec8e9268c615301/JSON%20model
 #
 ---
 
